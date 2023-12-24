@@ -29,7 +29,7 @@ Make sure you have the following installed:
 To run the streamlit application,use the following command:
 ```
 streamlit run app.py //for chat model
-streamlit run app.py //for image and chat model
+streamlit run vision.py //for image and chat model
 ```
 Access the application in your web browser at the provided URL (usually http://localhost:8501).
 
