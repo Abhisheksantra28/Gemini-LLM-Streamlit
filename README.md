@@ -27,7 +27,7 @@ Make sure you have the following installed:
 
 ### Running the Application
 To run the streamlit application,use the following command:
-```
+```bash
 streamlit run app.py //for chat model
 streamlit run vision.py //for image and chat model
 ```
