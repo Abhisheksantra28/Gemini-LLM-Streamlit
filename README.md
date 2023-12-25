@@ -46,6 +46,13 @@ Access the application in your web browser at the provided URL (usually http://l
 2. Upload an image by clicking the "Choose an image..." button.
 3. Click the "Tell me about the image" button to receive a response.
 
+### Chat App Demo
+
+1. Enter a message in the "Input" text box.
+2. Click the "Ask Question" button to send your question to the Gemini Pro model.
+3. View the AI's response in the main section of the app.
+4. The chat history is displayed in the sidebar.
+
 
 ## Additional Information
 
