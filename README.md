@@ -30,6 +30,7 @@ To run the streamlit application,use the following command:
 ```bash
 streamlit run app.py //for chat model
 streamlit run vision.py //for image and chat model
+streamlit run chat_app.py //for Q&A chat bot 
 ```
 Access the application in your web browser at the provided URL (usually http://localhost:8501).
 
