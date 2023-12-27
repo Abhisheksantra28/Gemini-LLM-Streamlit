@@ -30,7 +30,12 @@ To run the streamlit application,use the following command:
 ```bash
 streamlit run app.py //for chat model
 streamlit run vision.py //for image and chat model
-streamlit run chat_app.py //for Q&A chat bot 
+streamlit run chat_app.py //for Q&A chat bot
+
+// for running the Multilanguage Invoice Details extractor
+1. cd Multi_Lang_Invoice_Extractor
+2. pip install -r requirements.txt
+3. streamlit run app.py
 ```
 Access the application in your web browser at the provided URL (usually http://localhost:8501).
 
@@ -52,6 +57,15 @@ Access the application in your web browser at the provided URL (usually http://l
 2. Click the "Ask Question" button to send your question to the Gemini Pro model.
 3. View the AI's response in the main section of the app.
 4. The chat history is displayed in the sidebar.
+
+### Multilanguage Invoice Extractor
+
+This Streamlit app allows you to analyze and extract information from invoice images using Google's Gemini Pro Vision.
+
+1. Enter text input in the provided field.
+2. Upload an image of the invoice (JPG, JPEG, or PNG).
+3. Click the "Tell me about the Invoice" button.
+4. View the generated response based on the provided input and image.
 
 
 ## Additional Information
