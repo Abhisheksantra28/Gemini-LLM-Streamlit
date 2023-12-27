@@ -4,7 +4,7 @@ This is a Streamlit application that interacts with the Gemini LLM (Large Langua
 
 ## Applications
 
-- [Asking Question](#asking-question)
+- [Asking Questions](#asking-questions)
 - [Image Demo](#image-demo)
 - [Chat App Demo](#chat-app-demo)
 - [Multilanguage Invoice Extractor](#multilanguage-invoice-extractor)
