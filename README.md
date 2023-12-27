@@ -30,6 +30,7 @@ To run the streamlit application,use the following command:
 ```bash
 streamlit run app.py //for chat model
 streamlit run vision.py //for image and chat model
+streamlit run chat_app.py //for Q&A chat bot 
 ```
 Access the application in your web browser at the provided URL (usually http://localhost:8501).
 
@@ -44,6 +45,13 @@ Access the application in your web browser at the provided URL (usually http://l
 1. Enter an input prompt in the "Input Prompt" text box.
 2. Upload an image by clicking the "Choose an image..." button.
 3. Click the "Tell me about the image" button to receive a response.
+
+### Chat App Demo
+
+1. Enter a message in the "Input" text box.
+2. Click the "Ask Question" button to send your question to the Gemini Pro model.
+3. View the AI's response in the main section of the app.
+4. The chat history is displayed in the sidebar.
 
 
 ## Additional Information
